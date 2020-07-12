@@ -3,5 +3,5 @@ This repository contains data science take home assignments that I have encounte
 
 - This repository is to share my reasoning on problems that I have encountered during interviews. It is also to receive feedback and improve.
 - This repository will also help you know what kind of questions to expect and you can also practice the questions in this repository.
-</n> Company Interview Table Sorted by Month-Year
+<p> Company Interview Table Sorted by Month-Year
 
